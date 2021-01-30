@@ -1,0 +1,57 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    flex-direction: column;
+   
+}
+
+input{
+    width: 25%;
+    padding: 12px 20px;
+    
+    
+}
+
+.suggestion{
+    width: 20%;
+    padding: 12px 12px;
+}
+
+.name{
+   color: aqua;
+   background-color: black;
+   width: 30%;
+   padding: 5px 70px;
+   list-style-type: none;
+   white-space: nowrap;
+   transition: opacity 5s;
+   
+}
+
+li{
+    list-style-type: none;
+}
+label{
+    margin-bottom: 30px;
+    font-weight: 900;
+    font-size: large;
+    color: violet;
+}
+
+input:focus{
+    border: 5px solid rgb(88, 214, 30);
+
+    overflow: hidden;
+}
+.hl{
+    background-color: yellow;
+}

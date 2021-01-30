@@ -1,0 +1,20 @@
+    [
+    {"city": "New york",
+        "place":"USA"
+    },
+    {"city": "Boston",
+        "place":"USA"
+    },
+
+    {"city": "Dallas",
+        "place":"USA"
+    },
+
+    {"city": "Pittsburg",
+        "place":"USA"
+    },
+
+    {"city": "Washington",
+        "place":"USA"
+    }
+]
